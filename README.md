@@ -1,3 +1,3 @@
 # portfolio
 
-![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeboong&count_private=true)
