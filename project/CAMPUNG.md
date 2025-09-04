@@ -39,14 +39,14 @@
 
 ### **Backend**
 
-* **Framework**: Spring Boot 3.x, Spring Security
+* **Framework**: Spring Boot, Spring Security
 * **Language**: Java 17
-* **Database**: MariaDB, Redis 7.x
+* **Database**: MariaDB, Redis
 * **AI**: OpenAI GPT-5 API
 * **Cloud Infra**: AWS S3, Firebase Cloud Messaging (FCM)
 * **Real-time**: WebSocket
 * **ORM**: JPA/Hibernate with QueryDSL
-* **API Documentation**: Swagger/OpenAPI 3.0
+* **API Documentation**: Swagger/OpenAPI
 * **Build & Deploy**: Gradle, Docker Compose, GitHub Actions CI/CD
 
 ### **Android**
