@@ -43,10 +43,47 @@
 ---
 
 ## 📂 Projects
-👉 진행한 프로젝트들을 여기에 추가해 주세요. (예: 링크, 스크린샷, 설명)
 
-- **Project 1**: https://github.com/parkdu7/campung
-- **Project 2**: https://github.com/UDR-Sequence/sequence-backend
+![Shinhan Hackathon](https://img.shields.io/badge/신한은행%20해커톤-대상_(Grand_Prize)-blueviolet)
+
+### 1. 🏫 Campung: AI, 위치 기반 차세대 캠퍼스 소셜 라이프 커뮤니티
+
+➡️ **[레포지토리 바로가기](https://github.com/parkdu7/campung)**
+
+➡️ **[포트폴리오 상세설명 바로가기](https://github.com/Jaeboong/portfolio/blob/main/project/CAMPUNG.md)**
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img width="48%" alt="1" src="https://github.com/user-attachments/assets/9a778b2d-bc87-494f-a1bb-6b82546cdec6" /></td>
+    <td align="center"><img width="48%" alt="12" src="https://github.com/user-attachments/assets/d6e4e540-fc19-4823-84d0-dd114a290f46" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="48%" alt="35" src="https://github.com/user-attachments/assets/c069c3aa-13d2-4419-b99a-52addd13825d" /></td>
+    <td align="center"><img width="48%" alt="34" src="https://github.com/user-attachments/assets/e807c624-a7ca-41be-a908-d086402c0a79" /></td>
+  </tr>
+</table>
+
+
+
+<br>
+
+---
+
+### 2. 📚 Sequence: 개발자들을 위한 프로젝트 관리 및 협업 플랫폼
+
+➡️ **[레포지토리 바로가기](https://github.com/UDR-Sequence/sequence-backend)**
+
+➡️ **[배포된 사이트 바로가기](http://sequence.n-e.kr/)**
+
+➡️ **[포트폴리오 상세설명 바로가기](https://github.com/Jaeboong/portfolio/blob/main/project/SEQUENCE.md)**
+
+<br>
+
+**Sequence**는 프로젝트 팀원을 구하는 것부터 시작해, 아이디어 공유, 일정 관리, 그리고 프로젝트 아카이빙까지 **개발 협업의 전 과정을 지원하는 플랫폼**입니다. 체계적인 프로젝트 관리를 통해 개발 생산성을 높이고, 완성된 프로젝트를 포트폴리오로 기록하여 개발자로서의 성장을 돕습니다.
+
+
 - **Project 3**: https://github.com/OnelineBookClass/Backend
 - **Project 4**: https://github.com/Jaeboong/wordMemorizing
 - **Project 5**: https://github.com/Live-Healthy-Die-Healthy/BackEnd
