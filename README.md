@@ -75,7 +75,7 @@
 
 ➡️ **[레포지토리 바로가기](https://github.com/UDR-Sequence/sequence-backend)**
 
-➡️ **[배포된 사이트 바로가기](http://sequence.n-e.kr/)**
+➡️ **[배포된 사이트 바로가기](https://sequence-zeta.vercel.app/)**
 
 ➡️ **[포트폴리오 상세설명 바로가기](https://github.com/Jaeboong/portfolio/blob/main/project/SEQUENCE.md)**
 
